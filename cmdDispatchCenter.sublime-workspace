@@ -1,0 +1,558 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"com",
+				"commandList"
+			],
+			[
+				"new",
+				"newcmd"
+			],
+			[
+				"fin",
+				"findData"
+			],
+			[
+				"upd",
+				"updateData"
+			],
+			[
+				"cm",
+				"_cmds"
+			],
+			[
+				"cr",
+				"createData"
+			],
+			[
+				"no",
+				"nodeList"
+			],
+			[
+				"nod",
+				"nodeList"
+			],
+			[
+				"up",
+				"updateNodeList"
+			],
+			[
+				"str",
+				"str3"
+			],
+			[
+				"ob",
+				"objMsg"
+			],
+			[
+				"nodeI",
+				"nodeId"
+			],
+			[
+				"R",
+				"RainTotal"
+			],
+			[
+				"B",
+				"BP"
+			],
+			[
+				"Ri",
+				"RainRate"
+			],
+			[
+				"Windi",
+				"WindDirAvg"
+			],
+			[
+				"Win",
+				"WindMax"
+			],
+			[
+				"W",
+				"WindDirAvg"
+			],
+			[
+				"So",
+				"Solar"
+			],
+			[
+				"et",
+				"ET22_Weather_Sensor_xml"
+			],
+			[
+				"es",
+				"eS1100_Soil_Moisture_Sensor_xml"
+			],
+			[
+				"con",
+				"ConvertedValue"
+			],
+			[
+				"c",
+				"ConvertedValue"
+			],
+			[
+				"ele",
+				"element"
+			],
+			[
+				"op",
+				"options"
+			],
+			[
+				"win",
+				"WindAvg"
+			],
+			[
+				"so",
+				"soilTemperature"
+			],
+			[
+				"No",
+				"Node2"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"Pars",
+				"ParseNodeXml_SoilTemperatureSensor"
+			],
+			[
+				"car",
+				"carIDList"
+			],
+			[
+				"se",
+				"secret"
+			],
+			[
+				"sor",
+				"sortedList"
+			],
+			[
+				"ca",
+				"carID"
+			],
+			[
+				"la",
+				"Lat"
+			],
+			[
+				"ro",
+				"road2"
+			],
+			[
+				"ne",
+				"nextRoadNameList"
+			],
+			[
+				"roa",
+				"roadName"
+			],
+			[
+				"po",
+				"pointListArray"
+			],
+			[
+				"div",
+				"div-output"
+			],
+			[
+				"poi",
+				"points"
+			],
+			[
+				"get",
+				"getGpsData"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"g",
+				"g_point"
+			],
+			[
+				"post",
+				"postjson"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"s",
+				"script"
+			],
+			[
+				"st",
+				"stamp"
+			],
+			[
+				"ind",
+				"index_of_gap"
+			],
+			[
+				"inde",
+				"index_of_gap"
+			],
+			[
+				"mk",
+				"mktime"
+			],
+			[
+				"came",
+				"camera_count"
+			],
+			[
+				"set",
+				"setInterval"
+			],
+			[
+				"req",
+				"req1	require_once …"
+			],
+			[
+				"iw",
+				"iw02"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"ass",
+				"assign"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"onc",
+				"onclick	Attr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 2358,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "routes/index.js",
+			"settings":
+			{
+				"buffer_size": 9660,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/program/nodejs/sqlitedemo/routes/index.js",
+		"/C/program/nodejs/weatherMonitor/server/app.js",
+		"/C/program/nodejs/weatherMonitor/server/node_modules/faye-websocket/examples/server.js",
+		"/C/program/nodejs/weatherMonitor/server/test/test.js",
+		"/C/program/nodejs/weatherMonitor/server/views/wsTest.ejs",
+		"/C/program/nodejs/weatherMonitor/server/routes/index.js",
+		"/C/program/nodejs/weatherMonitor/server/node_modules/faye-websocket/lib/faye/websocket.js",
+		"/C/program/nodejs/weatherMonitor/server/test/sensor1.js",
+		"/C/Users/ssor/Desktop/index.js",
+		"/C/Users/ssor/AppData/Local/Temp/360zip$Temp/360$1/index.js",
+		"/C/Users/ssor/AppData/Local/Temp/360zip$Temp/360$0/index.js",
+		"/C/program/nodejs/webgis/public/stylesheets/theme-webgis.css",
+		"/C/program/nodejs/webgis/public/bootstrap/css/bootstrap.css",
+		"/C/program/csharp/智能物流实验室/实验箱综合实验/transportSimulation/UnitTest/UnitTest1.cs",
+		"/C/program/nodejs/webgis/public/stylesheets/theme.css",
+		"/C/program/www/phpinfo.php",
+		"/C/program/www/IOTMap/Public/jqueryMobile/jquery.mobile-1.3.0.min.css",
+		"/C/program/www/IOTMap/Lib/Action/MonitorAction.class.php",
+		"/C/program/www/IOTMap/Public/Js/jquery.zxxbox/js/jquery.zxxbox.3.0.js",
+		"/C/program/www/IOTMap/Tpl/Monitor/testDlg.html",
+		"/C/program/www/IOTMap/Tpl/Monitor/startReplaying.html",
+		"/C/program/www/IOTMap/Lib/Action/CarMonitorGetAction.class.php",
+		"/C/program/www/IOTMap/Lib/Action/MobileAction.class.php",
+		"/C/program/www/IOTMap/Lib/Action/CarMonitorPostAction.class.php",
+		"/C/program/www/IOTMap/Lib/Action/CarManagementAction.class.php",
+		"/C/program/www/IOTMap/Lib/Action/IndexAction.class.php",
+		"/C/program/www/IOTMap/Lib/Action/OrderRestAction.class.php",
+		"/C/program/www/IOTMap/Lib/Action/CarManagementRestAction.class.php",
+		"/C/program/www/IOTMap/Lib/Action/UserManagementAction.class.php",
+		"/C/program/www/IOTMap/Lib/Action/TaskAction.class.php",
+		"/C/program/www/IOTMap/Lib/Action/class.CarPoint.php",
+		"/C/program/www/IOTMap/Lib/Action/class.CarInfo.php",
+		"/C/program/www/IOTMap/Lib/Action/UnitTestAction.class.php",
+		"/C/program/www/IOTMap/Lib/Action/class.Route.php",
+		"/C/program/www/IOTMap/Lib/Action/class.people.php",
+		"/C/program/www/IOTMap/Lib/Action/HttpClient.class.php",
+		"/C/program/www/IOTMap/Lib/Action/InventoryAction.class.php",
+		"/C/program/www/IOTMap/Lib/Action/RestAction.class.php",
+		"/C/program/www/IOTMap/index.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"gps",
+			"global",
+			"nodeList",
+			"NodeList",
+			"nodeList",
+			"showTempHumi",
+			"temperature",
+			"humidity",
+			"temperature",
+			"Solar",
+			"temperature",
+			"WindMax",
+			"WindDirAvg",
+			"WindAvg",
+			"ParseNodeXml_ET22WeatherSensor",
+			"temperature",
+			"soilMoisture",
+			"eS1100_Soil_Moisture_Sensor_Xml",
+			"Things",
+			"getCarbySecret",
+			"postgps",
+			"sogouLng",
+			"sogouLat",
+			"postgps",
+			");\n",
+			"lng",
+			"lat",
+			"map",
+			"mktime",
+			"1377836725",
+			"\";\n",
+			"111",
+			"3c3c3c",
+			"lblTip",
+			"start_refresh",
+			"initialize",
+			"10002",
+			"cm01",
+			"marker01",
+			"pos01",
+			"iw01",
+			"cm",
+			"marker",
+			"pos",
+			"iw",
+			"carWithMarkArray",
+			"refreshTimeSpan",
+			"g_infowindow",
+			"RulerControl",
+			"infoWindowContent",
+			"getAddressComponentsHtml"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2358,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1403,
+								1403
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 630.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "routes/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9660,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								357,
+								357
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "cmdDispatchCenter.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\program\\nodejs\\webgis\\routes\\index.js"
+			],
+			[
+				"in",
+				"C:\\program\\nodejs\\webgis\\routes\\index.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 117.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
